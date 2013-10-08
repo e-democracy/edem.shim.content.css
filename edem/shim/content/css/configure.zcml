@@ -3,7 +3,10 @@
   xmlns:browser="http://namespaces.zope.org/browser"
   xmlns:five="http://namespaces.zope.org/five">
 
-    
+  <browser:resource name="icons-colour.png" 
+    image="browser/images/icons.png" 
+    layer="gs.skin.ogn.edem.interfaces.IEDemLayer" 
+    permission="zope2.Public" />
   <browser:resourceDirectory name="jquery-icons" 
     directory="browser/images/jquery-icons/" 
     layer="gs.skin.ogn.edem.interfaces.IEDemLayer" 
