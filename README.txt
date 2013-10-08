@@ -18,6 +18,8 @@ Introduction
 
 This egg customizes the shim CSS for E-Democracy.org.
 
+Currently this egg provides general site icons and jQuery icons.
+
 This egg should not be needed after the deployment of the new design.
 
 Resources
